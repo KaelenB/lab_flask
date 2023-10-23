@@ -1,0 +1,7 @@
+0. https://github.com/KaelenB/lab_flask.git
+1. Django is a full-stack web framework, Flask is a lightweight framework Flask provides complete control. Flask does not support dynamic HTML pages.
+2. Representational State Transfer. A guideline to manage communication
+3. Create - PUT/POST, Read - GET, Update - PUT/PATCH, Delete - DELETE
+4. 1xx informational response, 2xx successful, 3xx redirection, 4xx client error, 5xx server error 
+5. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. HTTP query parameters  without properly sanitizing the content.
+6. Cross-Origin Resource Sharing used when making requests from different domains.
